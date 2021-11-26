@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **arjanDangol/arjanDangol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2> Hi there! I'm Arjan.</h2>
+<h2> Hi there! I'm Arjan. 👋</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
