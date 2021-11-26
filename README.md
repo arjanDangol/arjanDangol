@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- ✍️ &nbsp; Worked and guided interns on Frontend Development and UI/UX design as well.
 - 🎓 &nbsp; Studied BSc.CSIT at Tribhuvan University.
-- 🌱 &nbsp; Learning more about Frontend Development slightly leaning towards Full Stack.
-- ✍️ &nbsp; Worked and guided interns on frontend development and UI/UX design as well.
+- 🌱 &nbsp; Learning more about Frontend Development slightly leaning towards Full Stack Development.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - ⚡ &nbsp; Interest on E-sports and Gaming.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
